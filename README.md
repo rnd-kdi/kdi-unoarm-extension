@@ -37,4 +37,4 @@ A lightweight add-on that brings basic UnoArm controls into your Blockly workspa
 
 ---
 
-**Bản quyền thuộc về KDI EDUCATION**
+**KDI EDUCATION**
