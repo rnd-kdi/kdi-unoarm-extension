@@ -2,7 +2,7 @@
 Blockly.Blocks['unoarm_set_dimensions'] = {
   init: function() {
     this.appendDummyInput()
-        .appendField("Set dimensions");
+        .appendField("Khai báo kích thước");
     this.appendValueInput("D1")
         .setCheck("Number")
         .appendField("d1");
